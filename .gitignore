@@ -187,3 +187,4 @@ project/target
 .worksheet
 
 .vscode/settings.json
+.Rproj.user
